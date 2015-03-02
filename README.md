@@ -1,6 +1,8 @@
 # css-switcher
 A Switcher based on CSS3 without Javascript
 
+![Alt text](/screenshot.png?raw=true "How is the current component design")
+
 It is very straight forward to use:
 
 ```html
@@ -14,5 +16,7 @@ It is very straight forward to use:
   </label>
 </div>
 ```
+
+
 
 
